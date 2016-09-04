@@ -1,0 +1,22 @@
+{
+  "name": "Dex",
+  "version": "1.0.0",
+  "description": "front-techs Homework#1",
+  "main": "index.html",
+  "scripts": {
+    "start": "node_modules/http-server/bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/golfyos/Dex.git"
+  },
+  "author": "Yossapol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/golfyos/Dex/issues"
+  },
+  "homepage": "https://github.com/golfyos/Dex#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
